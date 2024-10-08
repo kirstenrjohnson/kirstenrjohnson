@@ -2,7 +2,7 @@
 ---
 I am a geospatial data professional with a robust background in data analysis, predictive modeling, and data visualization. I specialize in Python, SQL, and GIS but have a wide range of prfessional experience with the technogliges listed in the toolbox below. 
 
-I have been in the industry for over 5 years to date with most of my projects specializng in XXXXX. 
+I have been in the industry for over 5 years to date with most of my projects specializng in transportation modeling, topic modeling, and spatial analysis.  
 
 ---
 
@@ -21,7 +21,7 @@ I have been in the industry for over 5 years to date with most of my projects sp
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
