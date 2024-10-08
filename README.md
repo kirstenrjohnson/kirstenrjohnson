@@ -1,4 +1,6 @@
 ### Hello All! :smiley: I am Kirsten Johnson and this is my professional Github.
+[![Linkedin Badge](https://img.shields.io/badge/-kirstenrjohnson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/kirstenrjohnson)]
+
 ---
 I am a geospatial data professional with a robust background in data analysis, predictive modeling, and data visualization. I specialize in Python, SQL, and GIS but have a wide range of prfessional experience with the technogliges listed in the toolbox below. 
 
