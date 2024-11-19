@@ -1,4 +1,4 @@
-### Hello All! :smiley: I am Kirsten Johnson and this is my professional Github.
+### Hello there! 😊 I am Kirsten Johnson, welcome to my Github!
 [![Linkedin Badge](https://img.shields.io/badge/-kirstenrjohnson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/kirstenrjohnson)](https://www.linkedin.com/in/kirstenrjohnson)
 
 ---
